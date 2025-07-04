@@ -11,3 +11,4 @@ Tools List:
 8. Kusho AI – https://kusho.ai/
 9. TestComplete – https://smartbear.com/product/testcom...
 10. Testim – https://www.testim.io/
+11. Adrenaline- https://useadrenaline.com/  ---> to debug the code
